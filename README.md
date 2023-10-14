@@ -1,4 +1,4 @@
-# Rest Assured Booking API Automation
+# Rest Assured Java TestNG (Create Booking API)
 
 This repository contains automation tests for the Booking API using Rest Assured, TestNG, and Maven.
 
